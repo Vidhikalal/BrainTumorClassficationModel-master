@@ -40,5 +40,4 @@ Feel free to open an issue or submit a pull request to improve the project!
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanhiranpurohit)  
+
